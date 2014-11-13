@@ -1,0 +1,15 @@
+{
+  "name": "sinatra-yconnect-example",
+  "repository": "https://github.com/giraffi/sinatra-yconnect-example",
+  "success_url": "/login",
+  "keywords": ["ruby", "sinatra"],
+  "env": {
+    "YAHOOJP_KEY": {
+      "description": "YDN Application ID"
+    },
+    "YAHOOJP_SECRET": {
+      "description": "YDN Application secret key"
+    }
+  }
+}
+
